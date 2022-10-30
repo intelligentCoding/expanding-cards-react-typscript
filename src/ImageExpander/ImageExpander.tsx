@@ -1,4 +1,3 @@
-import classNames from "classnames";
 import { FunctionComponent, useState } from "react";
 import { ImageCard } from "./ImageCard";
 
